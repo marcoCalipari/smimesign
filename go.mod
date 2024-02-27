@@ -1,4 +1,4 @@
-module github.com/github/smimesign
+module github.com/marcoCalipari/smimesign
 
 go 1.12
 
